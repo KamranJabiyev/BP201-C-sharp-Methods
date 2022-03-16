@@ -1,0 +1,13 @@
+D:\BP201\CSharpMethod\CSharpMethod\bin\Debug\netcoreapp3.1\CSharpMethod.exe
+D:\BP201\CSharpMethod\CSharpMethod\bin\Debug\netcoreapp3.1\CSharpMethod.deps.json
+D:\BP201\CSharpMethod\CSharpMethod\bin\Debug\netcoreapp3.1\CSharpMethod.runtimeconfig.json
+D:\BP201\CSharpMethod\CSharpMethod\bin\Debug\netcoreapp3.1\CSharpMethod.runtimeconfig.dev.json
+D:\BP201\CSharpMethod\CSharpMethod\bin\Debug\netcoreapp3.1\CSharpMethod.dll
+D:\BP201\CSharpMethod\CSharpMethod\bin\Debug\netcoreapp3.1\CSharpMethod.pdb
+D:\BP201\CSharpMethod\CSharpMethod\obj\Debug\netcoreapp3.1\CSharpMethod.csprojAssemblyReference.cache
+D:\BP201\CSharpMethod\CSharpMethod\obj\Debug\netcoreapp3.1\CSharpMethod.AssemblyInfoInputs.cache
+D:\BP201\CSharpMethod\CSharpMethod\obj\Debug\netcoreapp3.1\CSharpMethod.AssemblyInfo.cs
+D:\BP201\CSharpMethod\CSharpMethod\obj\Debug\netcoreapp3.1\CSharpMethod.csproj.CoreCompileInputs.cache
+D:\BP201\CSharpMethod\CSharpMethod\obj\Debug\netcoreapp3.1\CSharpMethod.dll
+D:\BP201\CSharpMethod\CSharpMethod\obj\Debug\netcoreapp3.1\CSharpMethod.pdb
+D:\BP201\CSharpMethod\CSharpMethod\obj\Debug\netcoreapp3.1\CSharpMethod.genruntimeconfig.cache
